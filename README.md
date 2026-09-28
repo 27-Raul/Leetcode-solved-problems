@@ -16,12 +16,14 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/27-Raul/sample/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/27-Raul/sample/tree/master/0217-contains-duplicate) |
 | [0128-longest-consecutive-sequence](https://github.com/27-Raul/sample/tree/master/0128-longest-consecutive-sequence) |
+| [0041-first-missing-positive](https://github.com/27-Raul/sample/tree/master/0041-first-missing-positive) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/27-Raul/sample/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/27-Raul/sample/tree/master/0217-contains-duplicate) |
 | [0128-longest-consecutive-sequence](https://github.com/27-Raul/sample/tree/master/0128-longest-consecutive-sequence) |
+| [0041-first-missing-positive](https://github.com/27-Raul/sample/tree/master/0041-first-missing-positive) |
 ## Two Pointers
 |  |
 | ------- |
