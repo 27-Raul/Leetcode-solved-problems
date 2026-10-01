@@ -17,6 +17,7 @@
 | [0217-contains-duplicate](https://github.com/27-Raul/sample/tree/master/0217-contains-duplicate) |
 | [0128-longest-consecutive-sequence](https://github.com/27-Raul/sample/tree/master/0128-longest-consecutive-sequence) |
 | [0041-first-missing-positive](https://github.com/27-Raul/sample/tree/master/0041-first-missing-positive) |
+| [0268-missing-number](https://github.com/27-Raul/sample/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -24,6 +25,7 @@
 | [0217-contains-duplicate](https://github.com/27-Raul/sample/tree/master/0217-contains-duplicate) |
 | [0128-longest-consecutive-sequence](https://github.com/27-Raul/sample/tree/master/0128-longest-consecutive-sequence) |
 | [0041-first-missing-positive](https://github.com/27-Raul/sample/tree/master/0041-first-missing-positive) |
+| [0268-missing-number](https://github.com/27-Raul/sample/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -46,6 +48,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/27-Raul/sample/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/27-Raul/sample/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/27-Raul/sample/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
@@ -54,10 +57,12 @@
 | [0069-sqrtx](https://github.com/27-Raul/sample/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/27-Raul/sample/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/27-Raul/sample/tree/master/0172-factorial-trailing-zeroes) |
+| [0268-missing-number](https://github.com/27-Raul/sample/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/27-Raul/sample/tree/master/0067-add-binary) |
+| [0268-missing-number](https://github.com/27-Raul/sample/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
@@ -71,6 +76,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/27-Raul/sample/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/27-Raul/sample/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/27-Raul/sample/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
