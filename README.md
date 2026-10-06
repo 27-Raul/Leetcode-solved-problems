@@ -27,6 +27,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/27-Raul/sample/tree/master/0128-longest-consecutive-sequence) |
 | [0041-first-missing-positive](https://github.com/27-Raul/sample/tree/master/0041-first-missing-positive) |
 | [0268-missing-number](https://github.com/27-Raul/sample/tree/master/0268-missing-number) |
+| [0242-valid-anagram](https://github.com/27-Raul/sample/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
 | ------- |
@@ -45,6 +46,7 @@
 | [0709-to-lower-case](https://github.com/27-Raul/sample/tree/master/0709-to-lower-case) |
 | [0344-reverse-string](https://github.com/27-Raul/sample/tree/master/0344-reverse-string) |
 | [1108-defanging-an-ip-address](https://github.com/27-Raul/sample/tree/master/1108-defanging-an-ip-address) |
+| [0242-valid-anagram](https://github.com/27-Raul/sample/tree/master/0242-valid-anagram) |
 ## String Matching
 |  |
 | ------- |
@@ -83,6 +85,7 @@
 | [0088-merge-sorted-array](https://github.com/27-Raul/sample/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/27-Raul/sample/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/27-Raul/sample/tree/master/0268-missing-number) |
+| [0242-valid-anagram](https://github.com/27-Raul/sample/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
 | ------- |
