@@ -28,6 +28,7 @@
 | [0041-first-missing-positive](https://github.com/27-Raul/sample/tree/master/0041-first-missing-positive) |
 | [0268-missing-number](https://github.com/27-Raul/sample/tree/master/0268-missing-number) |
 | [0242-valid-anagram](https://github.com/27-Raul/sample/tree/master/0242-valid-anagram) |
+| [0205-isomorphic-strings](https://github.com/27-Raul/sample/tree/master/0205-isomorphic-strings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -48,6 +49,7 @@
 | [1108-defanging-an-ip-address](https://github.com/27-Raul/sample/tree/master/1108-defanging-an-ip-address) |
 | [0242-valid-anagram](https://github.com/27-Raul/sample/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/27-Raul/sample/tree/master/0796-rotate-string) |
+| [0205-isomorphic-strings](https://github.com/27-Raul/sample/tree/master/0205-isomorphic-strings) |
 ## String Matching
 |  |
 | ------- |
