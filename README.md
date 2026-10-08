@@ -20,6 +20,7 @@
 | [0268-missing-number](https://github.com/27-Raul/sample/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/27-Raul/sample/tree/master/0283-move-zeroes) |
 | [0054-spiral-matrix](https://github.com/27-Raul/sample/tree/master/0054-spiral-matrix) |
+| [0566-reshape-the-matrix](https://github.com/27-Raul/sample/tree/master/0566-reshape-the-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -83,6 +84,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/27-Raul/sample/tree/master/0067-add-binary) |
 | [0054-spiral-matrix](https://github.com/27-Raul/sample/tree/master/0054-spiral-matrix) |
+| [0566-reshape-the-matrix](https://github.com/27-Raul/sample/tree/master/0566-reshape-the-matrix) |
 ## Newton's Method
 |  |
 | ------- |
@@ -133,4 +135,5 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/27-Raul/sample/tree/master/0054-spiral-matrix) |
+| [0566-reshape-the-matrix](https://github.com/27-Raul/sample/tree/master/0566-reshape-the-matrix) |
 <!---LeetCode Topics End-->
