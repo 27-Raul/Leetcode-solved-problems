@@ -19,6 +19,7 @@
 | [0041-first-missing-positive](https://github.com/27-Raul/sample/tree/master/0041-first-missing-positive) |
 | [0268-missing-number](https://github.com/27-Raul/sample/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/27-Raul/sample/tree/master/0283-move-zeroes) |
+| [0054-spiral-matrix](https://github.com/27-Raul/sample/tree/master/0054-spiral-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -81,6 +82,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/27-Raul/sample/tree/master/0067-add-binary) |
+| [0054-spiral-matrix](https://github.com/27-Raul/sample/tree/master/0054-spiral-matrix) |
 ## Newton's Method
 |  |
 | ------- |
@@ -127,4 +129,8 @@
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/27-Raul/sample/tree/master/0409-longest-palindrome) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/27-Raul/sample/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
