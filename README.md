@@ -22,6 +22,7 @@
 | [0054-spiral-matrix](https://github.com/27-Raul/sample/tree/master/0054-spiral-matrix) |
 | [0566-reshape-the-matrix](https://github.com/27-Raul/sample/tree/master/0566-reshape-the-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/27-Raul/sample/tree/master/0240-search-a-2d-matrix-ii) |
+| [0074-search-a-2d-matrix](https://github.com/27-Raul/sample/tree/master/0074-search-a-2d-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -67,6 +68,7 @@
 | [0069-sqrtx](https://github.com/27-Raul/sample/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/27-Raul/sample/tree/master/0268-missing-number) |
 | [0240-search-a-2d-matrix-ii](https://github.com/27-Raul/sample/tree/master/0240-search-a-2d-matrix-ii) |
+| [0074-search-a-2d-matrix](https://github.com/27-Raul/sample/tree/master/0074-search-a-2d-matrix) |
 ## Math
 |  |
 | ------- |
@@ -140,4 +142,5 @@
 | [0054-spiral-matrix](https://github.com/27-Raul/sample/tree/master/0054-spiral-matrix) |
 | [0566-reshape-the-matrix](https://github.com/27-Raul/sample/tree/master/0566-reshape-the-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/27-Raul/sample/tree/master/0240-search-a-2d-matrix-ii) |
+| [0074-search-a-2d-matrix](https://github.com/27-Raul/sample/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
