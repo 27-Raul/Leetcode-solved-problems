@@ -23,6 +23,7 @@
 | [0566-reshape-the-matrix](https://github.com/27-Raul/sample/tree/master/0566-reshape-the-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/27-Raul/sample/tree/master/0240-search-a-2d-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/27-Raul/sample/tree/master/0074-search-a-2d-matrix) |
+| [0832-flipping-an-image](https://github.com/27-Raul/sample/tree/master/0832-flipping-an-image) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,6 +44,7 @@
 | [0088-merge-sorted-array](https://github.com/27-Raul/sample/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/27-Raul/sample/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/27-Raul/sample/tree/master/0344-reverse-string) |
+| [0832-flipping-an-image](https://github.com/27-Raul/sample/tree/master/0832-flipping-an-image) |
 ## String
 |  |
 | ------- |
@@ -83,12 +85,14 @@
 | ------- |
 | [0067-add-binary](https://github.com/27-Raul/sample/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/27-Raul/sample/tree/master/0268-missing-number) |
+| [0832-flipping-an-image](https://github.com/27-Raul/sample/tree/master/0832-flipping-an-image) |
 ## Simulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/27-Raul/sample/tree/master/0067-add-binary) |
 | [0054-spiral-matrix](https://github.com/27-Raul/sample/tree/master/0054-spiral-matrix) |
 | [0566-reshape-the-matrix](https://github.com/27-Raul/sample/tree/master/0566-reshape-the-matrix) |
+| [0832-flipping-an-image](https://github.com/27-Raul/sample/tree/master/0832-flipping-an-image) |
 ## Newton's Method
 |  |
 | ------- |
@@ -143,4 +147,5 @@
 | [0566-reshape-the-matrix](https://github.com/27-Raul/sample/tree/master/0566-reshape-the-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/27-Raul/sample/tree/master/0240-search-a-2d-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/27-Raul/sample/tree/master/0074-search-a-2d-matrix) |
+| [0832-flipping-an-image](https://github.com/27-Raul/sample/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
