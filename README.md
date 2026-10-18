@@ -24,6 +24,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/27-Raul/sample/tree/master/0240-search-a-2d-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/27-Raul/sample/tree/master/0074-search-a-2d-matrix) |
 | [0832-flipping-an-image](https://github.com/27-Raul/sample/tree/master/0832-flipping-an-image) |
+| [0219-contains-duplicate-ii](https://github.com/27-Raul/sample/tree/master/0219-contains-duplicate-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,6 +36,7 @@
 | [0242-valid-anagram](https://github.com/27-Raul/sample/tree/master/0242-valid-anagram) |
 | [0205-isomorphic-strings](https://github.com/27-Raul/sample/tree/master/0205-isomorphic-strings) |
 | [0409-longest-palindrome](https://github.com/27-Raul/sample/tree/master/0409-longest-palindrome) |
+| [0219-contains-duplicate-ii](https://github.com/27-Raul/sample/tree/master/0219-contains-duplicate-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -148,4 +150,8 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/27-Raul/sample/tree/master/0240-search-a-2d-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/27-Raul/sample/tree/master/0074-search-a-2d-matrix) |
 | [0832-flipping-an-image](https://github.com/27-Raul/sample/tree/master/0832-flipping-an-image) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/27-Raul/sample/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
