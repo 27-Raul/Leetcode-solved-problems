@@ -10,8 +10,9 @@ class Solution {
             if(!list.contains(s.charAt(end)))
             {
                 list.add(s.charAt(end));
+               
+                end++; 
                 maxl = Math.max(maxl,list.size());
-                end++;
             }
             else
             {
