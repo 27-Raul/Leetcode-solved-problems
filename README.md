@@ -38,6 +38,7 @@
 | [0409-longest-palindrome](https://github.com/27-Raul/sample/tree/master/0409-longest-palindrome) |
 | [0219-contains-duplicate-ii](https://github.com/27-Raul/sample/tree/master/0219-contains-duplicate-ii) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/27-Raul/sample/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/27-Raul/sample/tree/master/0012-integer-to-roman) |
 ## Two Pointers
 |  |
 | ------- |
@@ -62,6 +63,7 @@
 | [0205-isomorphic-strings](https://github.com/27-Raul/sample/tree/master/0205-isomorphic-strings) |
 | [0409-longest-palindrome](https://github.com/27-Raul/sample/tree/master/0409-longest-palindrome) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/27-Raul/sample/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/27-Raul/sample/tree/master/0012-integer-to-roman) |
 ## String Matching
 |  |
 | ------- |
@@ -84,6 +86,7 @@
 | [0070-climbing-stairs](https://github.com/27-Raul/sample/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/27-Raul/sample/tree/master/0172-factorial-trailing-zeroes) |
 | [0268-missing-number](https://github.com/27-Raul/sample/tree/master/0268-missing-number) |
+| [0012-integer-to-roman](https://github.com/27-Raul/sample/tree/master/0012-integer-to-roman) |
 ## Bit Manipulation
 |  |
 | ------- |
